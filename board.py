@@ -30,3 +30,4 @@ if wraith_message != "no change":
     f.write(wraith_message)
     f.close()
     print("Wraith message UPDATED!")
+    
