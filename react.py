@@ -1,0 +1,11 @@
+import time
+print("=" * 30)
+print("          REFLEX TEST")
+print("=" * 30)
+print("Press ENTER when you see NOW!")
+time.sleep(3)
+print("NOW")
+start = time.time()
+input()
+end = time.time()
+print(end - start)

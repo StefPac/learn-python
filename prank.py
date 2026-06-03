@@ -1,0 +1,13 @@
+import time
+prank = input(">")
+print(" Virus installed. self destruct in t-5 seconds")
+time.sleep(1)
+print("Self destruct in t-4 seconds")
+time.sleep(1)
+print("Self destruct in t-3 seconds")
+time.sleep(1)
+print("Self destruct in t-2 seconds")
+time.sleep(1)
+print("Self destruct in t-1 seconds")
+time.sleep(1)
+print("💥BOOM💥")
